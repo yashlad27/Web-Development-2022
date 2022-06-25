@@ -1,0 +1,25 @@
+body {
+	background-image: url(backimg2.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #60431F;
+	border: 5px dotted rgba(255, 95, 9, 1.0);
+	text-align: center;
+
+}
+
+p {
+	color: #F70018;
+	border: 11px solid #FF5F09;
+}
+
+.webtext {
+	border: 2px dashed peachpuff;
+}
+
+.active {
+	color: gold;
+}
+
